@@ -13,3 +13,5 @@ title: Reading list
 [Awesome Python](https://github.com/vinta/awesome-python)
 
 [Django and Flask: Why and When To Use Which](https://www.hakkalabs.co/articles/django-and-flask)
+
+[SQLAlchemy and You](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
