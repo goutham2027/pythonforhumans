@@ -1,6 +1,9 @@
 ---
 title: Reading list
 ---
+[https://pythontips.com/2013/09/01/best-python-resources/](Best Python
+Resources)
+
 [https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html](High Performance Python Extensions)
 
 [https://spacy.io/blog/writing-c-in-cython](Writing C in Cython)
