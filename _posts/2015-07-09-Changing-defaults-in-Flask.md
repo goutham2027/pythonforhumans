@@ -2,11 +2,11 @@
 title: Changing defaults in Flask
 ---
 
-Type	Default folder name
-Static assets(css, js)	static
-Templates (jinja, html templates)	templates
-Instance (configuration)	instance
-
+| Type                           | Default folder name |
+|--------------------------------|---------------------|
+| Static assets(CSS, JS, images) | static              |
+| Templates (Jinja, HTML)        | templates           |
+| Instance (configuration)       | instance            |
 
 {% highlight python %}
 from flask import Flask
