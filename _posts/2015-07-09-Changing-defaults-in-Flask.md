@@ -1,5 +1,6 @@
 ---
 title: Changing defaults in Flask
+categories: configuration flask
 ---
 
 | Type                           | Default folder name |
