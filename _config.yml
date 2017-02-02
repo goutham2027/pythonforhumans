@@ -14,7 +14,7 @@ permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-highlighter:        rogue
+highlighter:        rouge
 excerpt_separator: ""
 #markdown:           redcarpet
 #redcarpet:
