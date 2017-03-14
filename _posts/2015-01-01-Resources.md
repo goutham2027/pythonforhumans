@@ -30,3 +30,6 @@ This page lists sites, papers, blogs, articles, conferences, online courses and 
 ### Online Courses:
 
 [Udacity](https://www.udacity.com/)
+
+### Interesting websites:
+[explain shell](http://explainshell.com/)
