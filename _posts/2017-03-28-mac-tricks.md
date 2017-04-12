@@ -1,8 +1,8 @@
 ---
-title: Mac tricks
+title: Mac tricks - Disabling CAPS lock
 ---
 
-#### 1. Disabling CAPS lock
+### Disabling CAPS lock
 
 Step1: From system preferences select keyboard
 ![step-1](/assets/disable-caps-lock-1.png)
