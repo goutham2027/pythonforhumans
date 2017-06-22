@@ -1,5 +1,6 @@
 ---
-title: Mac tricks - tmux iTerm copy
+title: Tmux iTerm copy
+tags: Mac-tricks
 ---
 
 #### Enable copy function in iTerm when using tmux

@@ -1,5 +1,6 @@
 ---
 title: My notes to Python3
+tags: python3
 ---
 
 #### Setting up python3

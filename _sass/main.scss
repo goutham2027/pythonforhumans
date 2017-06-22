@@ -312,7 +312,7 @@ section {
     margin: 0;
     padding: 0;
     li {
-      margin: 25px 0;
+      margin: 20px 0;
       .title {
         max-width: 100%;
         overflow: hidden !important;
@@ -377,4 +377,11 @@ section {
   100% {
     -webkit-transform: none;
   }
+}
+
+span.tag {
+  font-size: 13px;
+  text-transform: none;
+  letter-spacing: normal;
+  display: block;
 }

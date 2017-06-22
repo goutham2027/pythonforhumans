@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="col-xs-10">
+    <section>
+      <ul>
+
+        {% for post in site.posts %}
+
+        <li>
+          <div class="post-date">
+            <span>{{ post.date | date: "%b %d, %Y" }}</span>
+          </div>
+          <div class="title">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+        </li>
+
+        {% endfor %}
+
+      </ul>
+    </section>
+  </div>
+
+  <div class="col-xs-2">
+    <h3> Categories </h3>
+    {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    <li class="blog-tag-item" id="{{ t }}-item">
+      <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
+    </li>
+  {% endfor %}
+  </div>
+</div>

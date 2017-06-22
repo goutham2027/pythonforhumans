@@ -3,20 +3,32 @@ layout: default
 ---
 
 <section>
-	<ul>
+  {% comment %}
+              }<h3> Categories </h3>
+              }{% assign sorted_tags = site.tags | sort %}
+              }{% for tag in sorted_tags %}
+              }  {% assign t = tag | first %}
+              }  {% assign posts = tag | last %}
+              }  <li class="blog-tag-item" id="{{ t }}-item">
+              }    <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
+              }  </li>
+              }{% endfor %}
+              {% endcomment %}
+  <ul>
 
-		{% for post in site.posts %}
-
-		<li>
-			<div class="post-date">
-				<span>{{ post.date | date: "%b %d, %Y" }}</span>
-			</div>
-			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</div>
-		</li>
-
-		{% endfor %}
-
-	</ul>
+    {% for post in site.posts %}
+      {% if post.draft %}
+        {% continue %}
+      {% endif %}
+    <li>
+      <div class="post-date">
+        <span>{{ post.date | date: "%b %d, %Y" }}</span>
+      </div>
+      <div class="title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </div>
+      <span class="tag">{{ post.tags | array_to_sentence_string }} </span>
+    </li>
+    {% endfor %}
+  </ul>
 </section>
