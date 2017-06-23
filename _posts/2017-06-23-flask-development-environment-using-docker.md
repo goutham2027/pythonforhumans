@@ -1,8 +1,8 @@
 ---
 title: Flask Development Environment using Docker
 categories: docker
-tags: Docker Flask
 draft: true
+tags: [Docker, Flask]
 ---
 
 

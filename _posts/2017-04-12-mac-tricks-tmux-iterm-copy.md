@@ -1,6 +1,6 @@
 ---
 title: Tmux iTerm copy
-tags: Mac-tricks
+tags: mac-tricks
 ---
 
 #### Enable copy function in iTerm when using tmux

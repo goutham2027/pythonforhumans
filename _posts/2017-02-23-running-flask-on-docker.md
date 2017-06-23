@@ -1,5 +1,6 @@
 ---
 title: Running Flask app on Docker
+tags: docker
 ---
 
 This article explains running a Flask app inside a Docker container

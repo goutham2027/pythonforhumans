@@ -25,6 +25,19 @@ layout: default
 
 </article>
 
+<h3> Other articles with the same tag </h3>
+{% assign page_tags = page.tags %}
+{% for post in site.posts %}
+  {% for tag in page_tags %}
+    {% assign new_tag = tag %}
+    {% if post.tags contains new_tag and page.url != post.url %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
 <div class="back">
 	<a href="{{site.baseurl}}/">Back</a>
 </div>

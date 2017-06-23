@@ -1,6 +1,6 @@
 ---
 title: Disabling CAPS lock
-tags: Mac-tricks
+tags: mac-tricks
 ---
 
 ### Disabling CAPS lock

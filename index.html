@@ -4,9 +4,16 @@ layout: default
 
 <section>
   {% comment %}
-              }<h3> Categories </h3>
+              }<h3> Tags </h3>
               }{% assign sorted_tags = site.tags | sort %}
-              }{% for tag in sorted_tags %}
+              }{% for tag in site.tags %}
+              }  <p> {{ tag | first }} </p>
+              }  {% for post in site.posts %}
+              }    {% assign tag_new = tag | first %}
+              }    {% if post.tags contains tag_new %}
+              }      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              }    {% endif %}
+              }  {% endfor %}
               }  {% assign t = tag | first %}
               }  {% assign posts = tag | last %}
               }  <li class="blog-tag-item" id="{{ t }}-item">
@@ -15,7 +22,6 @@ layout: default
               }{% endfor %}
               {% endcomment %}
   <ul>
-
     {% for post in site.posts %}
       {% if post.draft %}
         {% continue %}

@@ -1,5 +1,6 @@
 ---
 title: My notes to Python3
+categories: python3
 tags: python3
 ---
 
