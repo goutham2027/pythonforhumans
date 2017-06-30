@@ -1,5 +1,6 @@
 ---
 title: Factorials of big numbers
+tags: code
 ---
 
 #### Usage:

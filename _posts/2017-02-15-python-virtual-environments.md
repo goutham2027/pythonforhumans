@@ -1,5 +1,6 @@
 ---
 title: Python Virtual Environments
+tags: tools
 ---
 
 # Why do we need Virtual Environment?

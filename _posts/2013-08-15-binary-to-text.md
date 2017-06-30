@@ -1,5 +1,6 @@
 ---
 title: Binary to Text Script
+tags: code
 ---
 
 {% highlight python %}

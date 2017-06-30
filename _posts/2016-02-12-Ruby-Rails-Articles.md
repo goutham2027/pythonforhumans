@@ -1,5 +1,6 @@
 ---
 title: Ruby, Rails Articles
+tags: resource
 ---
 
 [Ruby's Swiss Army Knife: The Enumerable Module](https://www.codementor.io/ruby-on-rails/tutorial/rubys-swiss-army-knife-the-enumerable-module)

@@ -1,5 +1,6 @@
 ---
 title: Python Online Material
+tags: [resource]
 ---
 
 ### Video Tutorials:

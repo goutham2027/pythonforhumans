@@ -1,5 +1,6 @@
 ---
 title: Python tidbits
+tags: [code, python]
 ---
 
 1. Python Terenary

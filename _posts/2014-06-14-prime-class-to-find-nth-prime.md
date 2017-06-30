@@ -1,5 +1,6 @@
 ---
 title: Prime class to find nth prime
+tags: code
 ---
 
 Github link: [https://github.com/goutham2027/prime](https://github.com/goutham2027/prime)

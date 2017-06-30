@@ -1,5 +1,6 @@
 ---
 title: Reading list
+tags: resource
 ---
 ### Computer Fundamentals
 

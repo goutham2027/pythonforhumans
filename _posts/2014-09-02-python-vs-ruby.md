@@ -1,5 +1,6 @@
 ---
 title: Python vs Ruby
+tags: [misc]
 ---
 
 [http://www.quora.com/Ruby-vs-Python/Which-should-I-learn-Django-or-Rails](http://www.quora.com/Ruby-vs-Python/Which-should-I-learn-Django-or-Rails)

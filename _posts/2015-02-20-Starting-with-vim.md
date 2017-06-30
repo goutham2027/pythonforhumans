@@ -1,5 +1,6 @@
 ---
 title: Starting with vim
+tags: tools
 ---
 
 Learning [Vim](http://www.vim.org/about.php) is incremental. Your fingers should get acquainted with Vim-keys (More on [Muscle Memory](http://lifehacker.com/5799234/how-muscle-memory-works-and-how-it-affects-your-success)). Don’t repeat the mistakes, get them right soon, else it is hard to get them right later. To get the best out of Vim you should configure it to your taste.

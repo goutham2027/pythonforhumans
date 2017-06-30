@@ -1,5 +1,6 @@
 ---
 title: Resources
+tags: resource
 ---
 
 This page lists sites, papers, blogs, articles, conferences, online courses and books that talk about Web (Development, Scalability, Optimizations etc),  and Internet.

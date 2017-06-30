@@ -1,5 +1,6 @@
 ---
 title: Debugging Flask app with pdb
+tags: [code, python, flask]
 ---
 
 pdb is python debugger. To break into debugger you can use set_trace() function.

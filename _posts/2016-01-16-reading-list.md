@@ -1,5 +1,6 @@
 ---
 title: Reading list
+tags: resource
 ---
 [https://pythontips.com/2013/09/01/best-python-resources/](Best Python
 Resources)

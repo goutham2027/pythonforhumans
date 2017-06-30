@@ -1,5 +1,6 @@
 ---
 title: Writing beautiful Python
+tags: resource
 ---
 [Transforming Code into Beautiful, Idiomatic Python video](https://www.youtube.com/watch?v=OSGv2VnC0go)
 

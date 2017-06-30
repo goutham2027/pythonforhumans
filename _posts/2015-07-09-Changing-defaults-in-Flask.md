@@ -1,6 +1,7 @@
 ---
 title: Changing defaults in Flask
 categories: configuration flask
+tags: [code flask]
 ---
 
 | Type                           | Default folder name |

@@ -1,5 +1,6 @@
 ---
 title: Python datetime snippets
+tags: [code, python]
 ---
 
 # TODO

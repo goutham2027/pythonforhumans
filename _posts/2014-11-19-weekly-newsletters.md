@@ -1,5 +1,6 @@
 ---
 title: Weekly Newsleters
+tags: resource
 ---
 Links for weekly newsletters of different technologies.
 
