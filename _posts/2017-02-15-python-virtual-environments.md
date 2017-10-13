@@ -37,7 +37,7 @@ $ virtualenv -p python3 <path_to_store_your_virtual_environment>
 $ python --version # Python 3.5.1
 ```
 
-With `virtualenv` we have to manage all the virtual environment folders ourself 
+With `virtualenv` we have to manage all the virtual environment folders ourself
 and everytime to activate we need to provide the entire path. There is a
 nice little wrapper `virtualenvwrapper` around `virtualenv` which
 simplifies the creation, activating and managing python virtual
