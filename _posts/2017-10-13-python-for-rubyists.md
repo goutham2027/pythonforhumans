@@ -1,6 +1,6 @@
 ---
 title: Python For Rubyists
-tags: python code
+tags: python
 ---
 All the code examples are based on python3
 Python code blocks are indented.
