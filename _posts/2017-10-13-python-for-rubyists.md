@@ -57,8 +57,8 @@ print("Hello, my name is {name} and my age is {age}".format(**my_info))
 
 #### Datastructures
 Python has 2 types of data structures immutable and mutable.
-Immutable can be changed.
-Mutable once defined cannot be changed.
+Mutable objects can be changed.
+Immutable objects once defined cannot be changed.
 
 4 data structures
 
