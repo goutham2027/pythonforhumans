@@ -2,8 +2,10 @@
 title: Python Virtual Environments
 tags: tools
 ---
+* TOC
+{:toc}
 
-# Why do we need Virtual Environment?
+## Why do we need a Virtual Environment?
 To keep dependencies isolated from one project to another. In one project we
 can use a package v1.X and in other we can use v2.X. Not just project
 dependencies we can even have different python versions in each project
@@ -14,7 +16,7 @@ There are tools which allow us to create virtual environments.
 
 `pip install virtualenv`
 
-### Settingup virtual environment for python2.7
+## Settingup virtual environment for python2.7
 
 ```
 $ virtualenv <path_to_store_your_virtual_environment>
@@ -29,7 +31,7 @@ $ python --version # Python 2.7.11
 $ deactivate
 ```
 
-### Settingup virtual environment for python3
+## Settingup virtual environment for python3
 ```
 $ virtualenv -p python3 <path_to_store_your_virtual_environment>
 
@@ -51,7 +53,7 @@ After installing `virtualenvwrapper` you need to source it to use magic commands
 
 `source /usr/local/bin/virtualenvwrapper.sh`
 
-### Creating virtual envs using virtualenvwrapper
+## Creating virtual envs using virtualenvwrapper
 ```
 # this creates virtual env in ~/.virtualenvs
 directory and activates it by default

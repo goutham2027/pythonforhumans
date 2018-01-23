@@ -13,18 +13,19 @@ help you to jump directly to Python code.
 Though the article's title states it's for rubyists, actually it is for everyone who is
 familiar with a programming language.
 
-All the code examples are based on python3.
+All the code examples are based on Python3.
 
 Python code blocks are indented.
 
 #### Setting up environment
-ruby tool python equivalent
+Ruby tool Python equivalent
 
 `Gemfile` is `requirements.txt`
 
 `gem install <gem>` is `pip install <package>`
 
-`rvm` is `virtualenv`
+`rvm` is `virtualenv` [Python Virtual
+Environments](/notes/python-virtual-environments){:target="_blank"}
 
 `byebug`is `pdb` or `ipdb`
 
