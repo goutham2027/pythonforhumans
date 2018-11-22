@@ -14,3 +14,6 @@ title: Shortcuts
 ### vim
 
 ### iTerm
+
+### vscode
+* Toggle explorer - cmd + b
