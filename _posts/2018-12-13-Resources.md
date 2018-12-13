@@ -34,3 +34,6 @@ This page lists sites, papers, blogs, articles, conferences, online courses and 
 
 ### Interesting websites:
 [explain shell](http://explainshell.com/)
+
+### SRE Resources
+[Google SRE Resources](https://landing.google.com/sre/resources/)

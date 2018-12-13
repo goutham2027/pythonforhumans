@@ -17,3 +17,7 @@ title: Shortcuts
 
 ### vscode
 * Toggle explorer - cmd + b
+* Open user settings - cmd + ,
+
+### Chrome
+* Open developer console - cmd + option + j
