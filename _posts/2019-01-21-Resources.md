@@ -37,3 +37,6 @@ This page lists sites, papers, blogs, articles, conferences, online courses and 
 
 ### SRE Resources
 [Google SRE Resources](https://landing.google.com/sre/resources/)
+
+### Git Internals
+[Git Internals](https://www.youtube.com/watch?v=P6jD966jzlk)
