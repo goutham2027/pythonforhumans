@@ -31,6 +31,7 @@ This page lists sites, papers, blogs, articles, conferences, online courses and 
 ### Online Courses:
 
 [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+[CS50-Introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 ### Interesting websites:
 [explain shell](http://explainshell.com/)
