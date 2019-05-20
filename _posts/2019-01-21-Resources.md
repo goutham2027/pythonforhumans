@@ -26,11 +26,11 @@ This page lists sites, papers, blogs, articles, conferences, online courses and 
 
 ### Papers:
 
-[RAM Cloud] (http://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud.pdf)
+[RAM Cloud](http://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud.pdf)
 
 ### Online Courses:
 
-[Udacity](https://www.udacity.com/)
+[Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 ### Interesting websites:
 [explain shell](http://explainshell.com/)
