@@ -7,6 +7,15 @@ tags: [code, python]
 * To get local timezone
 
 {% highlight python %}
+# Datetime object from date time string in ISO format
+from datetime import datetime
+
+iso_date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
+iso_date =  "2019-11-13T09:07:43.731Z"
+date_obj = datetime.strptime(iso_date, iso_date_format)
+{% endhighlight %}
+
+{% highlight python %}
 # Current system time
 from datetime import datetime
 current_time = datetime.now()
