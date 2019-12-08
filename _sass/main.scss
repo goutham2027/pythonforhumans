@@ -389,3 +389,10 @@ span.tag {
 li > ul {
   margin: 20px 0;
 }
+
+.post-date-last-updated span {
+  color: red;
+  float: right;
+  margin: 0 0 0 20px;
+  text-transform: capitalize;
+}

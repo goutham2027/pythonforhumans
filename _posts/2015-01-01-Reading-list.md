@@ -1,6 +1,7 @@
 ---
 title: Reading list
 tags: [resource, articles]
+last_modified_at: 2019-12-08 23:34
 ---
 ### Computer Fundamentals
 
@@ -19,6 +20,8 @@ tags: [resource, articles]
 [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 
 ### Articles:
+[Makers Schedule](http://www.paulgraham.com/makersschedule.html)
+
 [What are the best-kept secrets of great programmers?](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil)
 
 [Effective Code Review](https://alexgaynor.net/2013/sep/26/effective-code-review)
